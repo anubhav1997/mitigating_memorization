@@ -30,9 +30,9 @@ $ python3 generate_test_dataset_dtp.py
 ```
 
 
-## Mitigating Memorization using Opposite Guidance and Static Transition Point Method
+## Mitigating Memorization using Opposite Guidance and Dynamic Transition Point Method
 
 ```
-$ python3 generate_test_dataset_dtp.py 
+$ python3 generate_test_dataset_opposite_guidance.py 
 ```
 
