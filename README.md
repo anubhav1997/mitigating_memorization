@@ -9,6 +9,7 @@ You can download the LAION-10K dataset from this [link](https://drive.google.com
 ### Pre-trained Models
 You can download the finetuned SDv1.4 on 200 memorized samples from this [link](https://drive.google.com/drive/folders/1XiYtYySpTUmS_9OwojNo4rsPbkfCQKBl) and the training images from this [link](https://drive.google.com/drive/folders/1oQ49pO9gwwMNurxxVw7jwlqHswzj6Xbd). 
 
+Sdv2.1 finetuned on the LAION-10K dataset is available on this [link](https://drive.google.com/file/d/1sNBcLASudpz09lvOghdMlKXTqwFLEh37/view?usp=share_link).
 
 ## Mitigating Memorization using Static Transition Point Method
 
